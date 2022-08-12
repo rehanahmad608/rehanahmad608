@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rehan Ahmad, a cross platform app developer(specialized in Front End development). Experienced with Augmented and Virtual Reality application development.
 - 👀 I’m interested in developing interactive and immersive user experiences using cutting edge technologies. 
-- 🌱 I learnt game Dev, mixed reality Development, webXR- AFrame HTML. Last year, I developed dozen of apps using Flutter. I’m currently learning Kotlin and ReactJs
+- 🌱 I learnt game Dev, mixed reality Development, webXR- AFrame HTML. Last year, I developed dozen of apps using Flutter. I’m currently learning Kotlin and ReactNative
 - 💞️ I’m looking to work on cross platform app development and eager to learn new skills.
 - 📫 Reach me out on my Email Address: rehanahmad995@hotmail.com
