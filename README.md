@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rehanahmad608
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rehanahmad608/rehanahmad608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Rehan Ahmad, a cross platform app developer(specialized in Front End development). Experienced with Augmented and Virtual Reality application development.
+- 👀 I’m interested in developing interactive and immersive user experiences using cutting edge technologies. 
+- 🌱 I learnt game Dev, mixed reality Development, webXR- AFrame HTML. Last year, I developed dozen of apps using Flutter. I’m currently learning Kotlin and ReactJs
+- 💞️ I’m looking to work on cross platform app development and eager to learn new skills.
+- 📫 Reach me out on my Email Address: rehanahmad995@hotmail.com
